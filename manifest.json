@@ -1,11 +1,11 @@
 {
-  "display_name": "x7k2m9q4",
+  "display_name": "柏宝绘改",
   "loading_order": 100,
   "requires": [],
   "optional": [],
-  "js": "index.js?ver=0.4.27",
+  "js": "index.js?ver=0.4.28",
   "author": "柏柏",
-  "version": "0.4.27",
+  "version": "0.4.28",
   "homePage": "https://github.com/stilljy-commits/ST-BaiBai-Image",
   "auto_update": false,
   "minimum_client_version": "1.12.13"
