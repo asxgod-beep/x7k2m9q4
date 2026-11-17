@@ -3,10 +3,9 @@
   "loading_order": 100,
   "requires": [],
   "optional": [],
-  "js": "index.js?ver=0.4.28",
+  "js": "index.js?ver=0.4.29",
   "author": "柏柏",
-  "version": "0.4.28",
-  "homePage": "https://github.com/stilljy-commits/ST-BaiBai-Image",
+  "version": "0.4.29",
   "auto_update": false,
   "minimum_client_version": "1.12.13"
 }
